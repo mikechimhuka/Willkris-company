@@ -79,3 +79,14 @@
 .site-header{background:var(--bright);border-bottom-color:#c6d39e}
 .wordmark img{width:190px;height:auto;display:block}
 .menu-button{background:var(--bright);border-color:#c6d39e}
+
+/* Larger navigation, with a collapsible menu before the labels become cramped. */
+#primary-nav a{font-size:1.125rem;font-weight:600}
+@media(max-width:1200px){
+  .menu-button{display:flex;align-items:center;gap:.8rem;border:1px solid #c6d39e;padding:.6rem .9rem;color:var(--navy);font-size:1rem;min-height:44px}
+  #primary-nav{display:none;position:absolute;left:0;right:0;top:100%;background:var(--bright);padding:1.2rem 2rem;box-shadow:0 12px 20px #112a3812;border-top:1px solid var(--line)}
+  #primary-nav.open{display:flex;flex-direction:column;align-items:stretch;gap:0}
+  #primary-nav a{padding:.8rem 0;white-space:normal}
+  #primary-nav a[aria-current]:after{display:none}
+  #primary-nav .nav-contact{margin-top:.5rem;padding:.8rem 1rem}
+}
