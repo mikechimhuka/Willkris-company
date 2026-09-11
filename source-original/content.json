@@ -1,0 +1,1152 @@
+{
+  "contact.htm": {
+    "lines": [
+      "Contact Information",
+      "Please take a moment to look over our site to see how Wilkris Company can help you. If you have any further questions, please don't hesitate to contact us at: info@wilkris.com.",
+      "Telephone",
+      "513.271.9344",
+      "Fax",
+      "513.271.5995",
+      "Postal Address",
+      "P.O. Box 230",
+      "Terrace Park, OH 45174",
+      "Electronic Mail",
+      "General Information: info@wilkris.com",
+      "Sales: sales@wilkris.com",
+      "Customer Support: support@wilkris.com"
+    ],
+    "images": [],
+    "links": [
+      {
+        "href": "mailto:info@wilkris.com",
+        "text": "info@wilkris.com"
+      },
+      {
+        "href": "mailto:info@wilkris.com",
+        "text": "info@wilkris.com"
+      },
+      {
+        "href": "mailto:sales@wilkris.com",
+        "text": "sales@wilkris.com"
+      },
+      {
+        "href": "mailto:support@wilkris.com",
+        "text": "support@wilkris.com"
+      }
+    ],
+    "movies": [],
+    "modified": [
+      "Page last modified 19 January 2005"
+    ]
+  },
+  "engine_demo.htm": {
+    "lines": [
+      "Engine Demonstration"
+    ],
+    "images": [],
+    "links": [],
+    "movies": [
+      "/Flash/Wilkris%20Engine%20Demo.swf"
+    ],
+    "modified": []
+  },
+  "fluid_filling/axles.htm": {
+    "lines": [
+      "Best Practices for Fluid Fill and Auditing Axles",
+      "Outline",
+      "I.Overview of fluid filling/leveling methods and their downfalls",
+      "II.Overview of the Wilkris fluid filling/leveling method.",
+      "III.Overview of why the Wilkris fluid filling method is more cost efficient, faster, and more accurate than current methods.",
+      "I. Common Fluid Filling Methods",
+      "There are four methods historically used to fill.",
+      "1. The vacuum Straw/vacuum stand pipe method.",
+      "2. The volumetric method.",
+      "3. The weight method.",
+      "4. The wire tie method.",
+      "The specification to verify these methods is by measuring the oil level. This is accomplished through the use of a sight gauge or a dip stick.",
+      "1. The Vacuum Straw/Stand Pipe method",
+      "There are five common reasons the tiny port on the level sensing straw is covered and the fill cycle is stopped:",
+      "A. Because the correct level has been reached.",
+      "B. Because foam has covered the hole.",
+      "C. Because splash has covered the hole.",
+      "D. Because turbulence has covered the hole.",
+      "E. Because temperature has expanded the oil and it now covers the hole.",
+      "The vacuum straw can measure only to one level, the vacuum port on the straw. This limits multiple levels to be set, and limits the number of items that can be filled by one set of tooling.",
+      "2. The Weight Method",
+      "The weight method weighs the axel in order to verify the volume of oil. This system is very expensive to implement and maintain because it requires tracking the weight of each component of the axle being filled, pallet, and in process dunnage. Once an axle is filled it is extremely difficult to re-fill because of the residual oil contained in a re-operated item. In addition; The weight does not have a direct correlation to the level of oil.",
+      "3. The Volumetric Method",
+      "The volumetric method uses a known volume of oil and fills the axle with oil. Volumetric fill is not reliable, the internal cavity of axles can vary and affect the oil level considerably. Again; The volume of oil does not have a direct correlation to the level of oil in the transmission.",
+      "4. The Wire Tie Method",
+      "The Wire tie works like a dipstick, reading a wire tie is subjective. The wire tie does not give any comparable data that can be seen or compared and is not automated.",
+      "II. The Wilkris Method",
+      "The following are a few advantages of the Wilkris Method:",
+      "1. The Wilkris method is immune to turbulence, splash, and foam.",
+      "2. Level can be set to any set point. Different part or product types can be filled by the same system to the required level.",
+      "3. Fast response time. The Wilkris method fills to a predetermined level and then stops. Filling can be stopped at any level within the sensing range of the gauge, +/-1 mm. This can be demonstrated. There is no need to overfill and then bring down the level.",
+      "4. Temperature Compensation, expanding hot oil can be normalized to any temperature.",
+      "5. Easy to use, the Wilkris Method works like a digital dipstick.",
+      "6. Labor is reduced, the Wilkris method can be completely automated.",
+      "7. Reworks are reduced due to the precision level signal.",
+      "8. Material usage is reduced because there are no overfills with the Wilkris method.",
+      "9. Rejections are reduced, the method is accurate to +/-1 mm.",
+      "10. The method produces data that can be viewed and compared.",
+      "11. The Wilkris method makes filling more cost efficient.",
+      "III. Summary",
+      "1. The specification to verify the correct oil content is by measuring the oil level.",
+      "2. The volumetric method does not measure level.",
+      "3. The weight method does not measure level.",
+      "4. The Standpipe method is rigid and unreliable.",
+      "5. The dipstick method is subjective and prone to operator error.",
+      "6. The Wilkris method measures oil level accurately to +/-1 mm.",
+      "7. Wilkris fill systems are flexible, they can fill to multiple levels.",
+      "8. Wilkris fill systems are reliable, the calibration holds for months.",
+      "9. Wilkris fill systems are robust, they perform and last in rough manufacturing environments.",
+      "10. Wilkris fill systems can be fully automated."
+    ],
+    "images": [],
+    "links": [
+      {
+        "href": "/fluid_filling.htm",
+        "text": "Best Practices for Fluid Fill and Auditing"
+      }
+    ],
+    "movies": [],
+    "modified": [
+      "Page last modified 19 January 2005"
+    ]
+  },
+  "fluid_filling/best_practices.htm": {
+    "lines": [
+      "Best Practices for Fluid Fill and Auditing",
+      "Outline",
+      "I.Overview of fluid filling/leveling methods and their downfalls",
+      "II.Overview of the Wilkris fluid filling/leveling method.",
+      "III.Overview of why the Wilkris fluid filling method is more cost efficient, and faster and more accurate than current methods.",
+      "I. Common Fluid Filling Methods",
+      "There are four methods historically used to fill.",
+      "1. The vacuum Straw/vacuum stand pipe method.",
+      "2. The volumetric method.",
+      "3. The weight method.",
+      "The specification to verify these methods is by measuring the oil level. This is accomplished through the use of a sight gauge or a dip stick.",
+      "1. The Vacuum Straw/Stand Pipe method",
+      "There are five common reasons the tiny port on the level sensing straw is covered and the fill cycle is stopped:",
+      "A. Because the correct level has been reached.",
+      "B. Because foam has covered the hole.",
+      "C. Because splash has covered the hole.",
+      "D. Because turbulence has covered the hole.",
+      "E. Because temperature has expanded the oil and it now covers the hole.",
+      "The vacuum straw can measure only to one level, the vacuum port on the straw. This limits multiple levels to be set, and limits the number of items that can be filled by one set of tooling.",
+      "2. The Weight Method",
+      "The weight method weighs the engine in order to verify the volume of oil. This system is very expensive to implement and maintain because it requires tracking the weight of each component of the item being filled, pallet, and in process dunnage. Once an something is filled it is extremely difficult to re-fill because of the residual oil contained in a re-operated item. In addition; The weight does not have a direct correlation to the level of oil.",
+      "3. The Volumetric Method",
+      "The volumetric method uses a known volume of oil and fills the an item with oil. Volumetric fill is not reliable, the internal cavity of products can vary and affect the oil level considerably. Again; The volume of oil does not have a direct correlation to the level of oil in whatever is being filled.",
+      "II. The Wilkris Method",
+      "The following are a few advantages of the Wilkris Method:",
+      "1. The Wilkris method is immune to turbulence, splash, and foam.",
+      "2. Level can be set to any set point. Different part or product types can be filled by the same system to the required level.",
+      "3. Fast response time. The Wilkris method fills to a predetermined level and then stops. Filling can be stopped at any level within the sensing range of the gauge, +/-1 mm. This can be demonstrated. There is no need to overfill and then bring down the level.",
+      "4. Temperature Compensation, expanding hot oil can be normalized to any temperature.",
+      "5. Easy to use, the Wilkris Method works like a digital dipstick.",
+      "6. Labor is reduced, the Wilkris method can be competely automated.",
+      "7. Reworks are reduced due to the precision level signal.",
+      "8. Material usage is reduced because there are no overfills with the Wilkris method.",
+      "9. Rejections are reduced, the method is accurate to +/-1 mm.",
+      "10. The method produces data that can be viewed and compared.",
+      "11. The Wilkris method makes filling more cost efficient.",
+      "III. Summary",
+      "1. The specification to verify the correct oil content is by measuring the oil level.",
+      "2. The volumetric method does not measure level.",
+      "3. The weight method does not measure level.",
+      "4. The Standpipe method is rigid and unreliable.",
+      "5. The dipstick method is subjective and prone to operator error.",
+      "6. The Wilkris method measures oil level accurately to +/-1 mm.",
+      "7. Wilkris fill systems are flexible, they can fill to multiple levels.",
+      "8. Wilkris fill systems are reliable, the calibration holds for months.",
+      "9. Wilkris fill systems are robust, they perform and last in rough manufacturing environments.",
+      "10. Wilkris fill systemscan be fully automated."
+    ],
+    "images": [],
+    "links": [
+      {
+        "href": "/fluid_filling.htm",
+        "text": "Best Practices for Fluid Fill and Auditing"
+      }
+    ],
+    "movies": [],
+    "modified": [
+      "Page last modified 19 January 2005"
+    ]
+  },
+  "fluid_filling/engines.htm": {
+    "lines": [
+      "Best Practices for Fluid Fill and Auditing Engines",
+      "Outline",
+      "I.Overview of fluid filling/leveling methods and their downfalls",
+      "II.Overview of the Wilkris fluid filling/leveling method.",
+      "III.Summary.",
+      "I. Common Fluid Filling Methods",
+      "There are four methods historically used to fill and verify engines with oil.",
+      "1. The vacuum Straw/vacuum stand pipe method.",
+      "2. The volumetric method.",
+      "3. The weight method.",
+      "4. The dipstick method.",
+      "The specification to verify these methods is by measuring the oil level. This is accomplished through the use of a sight gauge or a dip stick.",
+      "1. The Vacuum Straw/Stand Pipe method",
+      "There are five common reasons the tiny port on the level sensing straw is covered and the fill cycle is stopped:",
+      "A. Because the correct level has been reached.",
+      "B. Because foam has covered the hole.",
+      "C. Because splash has covered the hole.",
+      "D. Because turbulence has covered the hole.",
+      "E. Because temperature has expanded the oil and it now covers the hole.",
+      "The vacuum straw can measure only to one level, the vacuum port on the straw. This limits multiple levels to be set, and limits the number of engine models that can be filled by one set of tooling.",
+      "2. The Weight Method",
+      "The weight method weighs the engine in order to verify the volume of oil in the engine. This system is very expensive to implement and maintain because it requires tracking the weight of each component of the engine, pallet, and in process dunnage. Once an engine is filled it is extremely difficult to re-fill because of the residual oil contained in a re-operated engine. In addition; The weight of a engine does not have a direct correlation to the level of oil in the case.",
+      "3. The Volumetric Method",
+      "The volumetric method uses a known volume of oil and fills the engine with the oil. Volumetric fill is not reliable, the internal cavity of engines can vary and affect the oil level considerably. Again; The volume of oil does not have a direct correlation to the level of oil in the case.",
+      "4. The Dipstick Method",
+      "Reading a Dipstick is subjective, it does not give any comparable data can be seen, and is not automated.",
+      "II. The Wilkris Method",
+      "The following are a few advantages of the Wilkris Method:",
+      "1. The Wilkris method is immune to turbulence, splash, and foam.",
+      "2. Level can be set to any set point. Different engine types can be filled by the same system to the required level.",
+      "3. Fast response time. With theWilkris method, engines are rapidly filled to a predetermined level and then filling stops. Filling can be stopped at any level within the sensing range of the gauge, +/-1 mm. This can be demonstrated. There is no need to overfill an engine and then bring down the level.",
+      "4. Temperature Compensation, expanding hot oil can be normalized to any temperature.",
+      "5. Easy to use, the Wilkris Method works like a digital dipstick.",
+      "6. Labor is reduced, the Wilkris method can be completely automated.",
+      "7. Reworks are reduced due to the precision level signal.",
+      "8. Material usage is reduced because there are no overfills with the Wilkris method.",
+      "9. Rejections are reduced, the method is accurate to +/-1 mm.",
+      "10. The method produces data that can be viewed and compared.",
+      "11. The Wilkris method makes engine filling more cost efficient.",
+      "III. Summary",
+      "1. The specification to verify the correct oil content is by measuring the oil level.",
+      "2. The volumetric method does not measure level.",
+      "3. The weight method does not measure level.",
+      "4. The Standpipe method is rigid and unreliable.",
+      "5. The dipstick method is subjective and prone to operator error.",
+      "6. The Wilkris method measures oil level accurately to +/-1 mm.",
+      "7. Wilkris fill systems are flexible, they can fill to multiple levels.",
+      "8. Wilkris fill systems are reliable, the calibration holds for months.",
+      "9. Wilkris fill systems are robust, they perform and last in rough manufacturing environments.",
+      "10. Wilkris fill systems can be fully automated."
+    ],
+    "images": [],
+    "links": [
+      {
+        "href": "/fluid_filling.htm",
+        "text": "Best Practices for Fluid Fill and Auditing"
+      }
+    ],
+    "movies": [],
+    "modified": [
+      "Page last modified 19 January 2005"
+    ]
+  },
+  "fluid_filling/transmissions.htm": {
+    "lines": [
+      "Best Practices for Fluid Fill and Auditing Transmissions",
+      "Outline",
+      "I.Overview of fluid filling/leveling methods and their downfalls",
+      "II.Overview of the Wilkris fluid filling/leveling method.",
+      "III.Overview of why the Wilkris fluid filling method is more cost efficient, and faster and more accurate than current methods.",
+      "I. Common Fluid Filling Methods",
+      "There are four methods historically used to fill.",
+      "1. The vacuum Straw/vacuum stand pipe method.",
+      "2. The volumetric method.",
+      "3. The weight method.",
+      "The specification to verify these methods is by measuring the oil level. This is accomplished through the use of a sight gauge or a dip stick.",
+      "1. The Vacuum Straw/Stand Pipe method",
+      "There are five common reasons the tiny port on the level sensing straw is covered and the fill cycle is stopped:",
+      "A. Because the correct level has been reached.",
+      "B. Because foam has covered the hole.",
+      "C. Because splash has covered the hole.",
+      "D. Because turbulence has covered the hole.",
+      "E. Because temperature has expanded the oil and it now covers the hole.",
+      "The vacuum straw can measure only to one level, the vacuum port on the straw. This limits multiple levels to be set, and limits the number of items that can be filled by one set of tooling.",
+      "2. The Weight Method",
+      "The weight method weighs the transmission in order to verify the volume of oil. This system is very expensive to implement and maintain because it requires tracking the weight of each component of the transmission being filled, pallet, and in process dunnage. Once a transmission is filled it is extremely difficult to re-fill because of the residual oil contained in a re-operated item. In addition; The weight does not have a direct correlation to the level of oil.",
+      "3. The Volumetric Method",
+      "The volumetric method uses a known volume of oil and fills the transmission with oil. Volumetric fill is not reliable, the internal cavity and oil pan of transmissions can vary and affect the oil level considerably. Again; The volume of oil does not have a direct correlation to the level of oil in the transmission.",
+      "II. The Wilkris Method",
+      "The following are a few advantages of the Wilkris Method:",
+      "1. The Wilkris method is immune to turbulence, splash, and foam.",
+      "2. Level can be set to any set point. Different part or product types can be filled by the same system to the required level.",
+      "3. Fast response time. The Wilkris method fills to a predetermined level and then stops. Filling can be stopped at any level within the sensing range of the gauge, +/-1 mm. This can be demonstrated. There is no need to overfill and then bring down the level.",
+      "4. Temperature Compensation, expanding hot oil can be normalized to any temperature.",
+      "5. Easy to use, the Wilkris Method works like a digital dipstick.",
+      "6. Labor is reduced, the Wilkris method can be completely automated.",
+      "7. Reworks are reduced due to the precision level signal.",
+      "8. Material usage is reduced because there are no overfills with the Wilkris method.",
+      "9. Rejections are reduced, the method is accurate to +/-1 mm.",
+      "10. The method produces data that can be viewed and compared.",
+      "11. The Wilkris method makes filling more cost efficient.",
+      "III. Summary",
+      "1. The specification to verify the correct oil content is by measuring the oil level.",
+      "2. The volumetric method does not measure level.",
+      "3. The weight method does not measure level.",
+      "4. The Standpipe method is rigid and unreliable.",
+      "5. The dipstick method is subjective and prone to operator error.",
+      "6. The Wilkris method measures oil level accurately to +/-1 mm.",
+      "7. Wilkris fill systems are flexible, they can fill to multiple levels.",
+      "8. Wilkris fill systems are reliable, the calibration holds for months.",
+      "9. Wilkris fill systems are robust, they perform and last in rough manufacturing environments.",
+      "10. Wilkris fill systems can be fully automated."
+    ],
+    "images": [],
+    "links": [
+      {
+        "href": "/fluid_filling.htm",
+        "text": "Best Practices for Fluid Fill and Auditing"
+      }
+    ],
+    "movies": [],
+    "modified": [
+      "Page last modified 19 January 2005"
+    ]
+  },
+  "fluid_filling.htm": {
+    "lines": [
+      "Fluid Filling Best Practices",
+      "Please click the following links to learn more about the advantages of using a Wilkris Company fluid fill system.",
+      "Best Practices for Fluid Fill and Auditing",
+      "Best Practices for Fluid Fill and Auditing Axles",
+      "Best Practices for Fluid Fill and Auditing Engines",
+      "Best Practices for Fluid Fill and Auditing Transmissions"
+    ],
+    "images": [],
+    "links": [
+      {
+        "href": "/fluid_filling/best_practices.htm",
+        "text": "Best Practices for Fluid Fill and Auditing"
+      },
+      {
+        "href": "/fluid_filling/axles.htm",
+        "text": "Best Practices for Fluid Fill and Auditing Axles"
+      },
+      {
+        "href": "/fluid_filling/engines.htm",
+        "text": "Best Practices for Fluid Fill and Auditing Engines"
+      },
+      {
+        "href": "/fluid_filling/transmissions.htm",
+        "text": "Best Practices for Fluid Fill and Auditing Transmissions"
+      }
+    ],
+    "movies": [],
+    "modified": [
+      "Page last modified 19 January 2005"
+    ]
+  },
+  "freq/about_fluid_filling.htm": {
+    "lines": [
+      "QUESTIONS ABOUT FLUID FILLING SYSTEMS",
+      "What is special about Wilkris fluid filling systems?",
+      "The key issue is reliability.",
+      "There are two main reasons why a Wilkris fluid filling system is reliable:",
+      "1. The system verifies every fill cycle. The volumetric system is verified by the fluid level system every cycle.",
+      "2. The system uses a variable rate delivery system that makes the mechanical portion of the system superior.",
+      "Can the Wilkris fluid filling system catch one in 10,000 improper fills?",
+      "Yes, The system verifies every fill cycle. In addition, diagnostic checks of both sensing systems are run with each cycle. If a fault is discovered, the system stops the process.",
+      "Can the Wilkris fluid filling system handle multiple fluids?",
+      "Yes, Wilkris Company has a great deal of experience handling multiple fluids and error proofing the process.",
+      "Can the Wilkris fluid filling system handle multiple fill points?",
+      "Yes, Wilkris Company has experience handling multiple fill points and error proofing this process as well.",
+      "Can the Wilkris fluid filling system provide a dripless fill system?",
+      "A truly dripless filling system is dependent upon the final configuration of the product and the fill head. It is impossible to say yes without the final design of both components. However, Wilkris engineers are striving to create a truly dripless fill head.",
+      "Can a customer's system communicate?",
+      "Yes, Wilkris Company has a large amount of experience in most of the standard industrial communication networks and protocols.",
+      "What kind of programmable logic controllers (PLC) or computers are provided with Wilkris fluid filling systems?",
+      "Wilkris Company uses most of the major brands of PLC's depending on the customer's requirements. Allen Bradley is supplied if there is no preference.",
+      "Can the Wilkris fluid filling system read bar codes or radio frequency identifcation (RFID) tags?",
+      "Yes, Wilkris Company has a great deal of experience in both methods of identifying products and gathering information.",
+      "Is the Wilkris fluid filling system system going to add labor to industrial processes?",
+      "No, the Wilkris fluid filling system usually reduces labor because it offers an increased level of automation.",
+      "Is the Wilkris fluid filling system system going to increase manufacturing time?",
+      "No. the system reduces the time it takes to manufacture products in three ways:",
+      "1. The variable rate filling process is superior to conventional filling processes; the system can attain faster cycle times.",
+      "2. The level of automation is generally higher and therefore allows the operator to perform other duties other than filling.",
+      "3. The system performs two functions at the same time, filling and quality assurance. This is normally a two step process.",
+      "How long does it take to get a filling system?",
+      "A simple one fluid system takes 6-8 weeks from down payment to run-off at a Wilkris production facility"
+    ],
+    "images": [],
+    "links": [],
+    "movies": [],
+    "modified": [
+      "Page last modified 19 January 2005"
+    ]
+  },
+  "freq/about_level_sensing.htm": {
+    "lines": [
+      "QUESTIONS ABOUT WILKRIS FLUID LEVEL SENSING GAUGES",
+      "What does a Wilkris fluid level gauge do that other liquid level systems can not?",
+      "1. Wilkris Company offers a means of error proofing products concerning fluids. Until the Wilkris gauge, there has not been a reliable and easy way to verify the fluid filling operation. In most cases the Wilkris gauge can be directly integrated with an existing filling operation, and is then used to verify that the fluid being pumped to a product and measured by flow meters has actually arrived and filled the product to a specified level. This level can then be recorded against the product's serial number for warranty purposes.",
+      "2. Wilkris Company fluid level gauges accurately measure fluid level while it is in a dynamic state. This means fluid levels can be measured while a product is running, while it is being filled, or while both running and being filled.",
+      "3. One may ask how level can be measured while the product is running and/or being filled. This can be done because the Wilkris gauge is a hydrostatic gauge and is immune to foam, splash, and turbulence.",
+      "Foam, splash, and turbulence, destroy the accuracy of most other means of level sensing including ultrasonic, radar, optical, radiation, capacitance, inductance, resistance, and float based systems, but not accuracy of the Wilkris gauge. Wilkris Company can demonstrate this and has documentation from customers that will attest to this fact.",
+      "4. The Wilkris gauge precisely measures fluid level to +/- 0.40 mm, 1/64\" or 0.0156\" in most cases. This would include automotive fluids such as: automatic transmission fluid; engine oil; differential lube; power steering oil; engine coolant; brake fluid; windshield wiper fluid; and battery acid. The Wilkris gauge is the most accurate gauge available on the market.",
+      "5. Gauge reliability and repeatability (R&R) studies are available and can be performed with any application. They will be structured to comply with QS 9000 certification and will be National Institute of Standards and Technology traceable. The ability to be traced to a known standard sets the Wilkris gauge apart.",
+      "What is the sensing range of the level gauge?",
+      "Wilkris fluid level gauges come in three standard ranges for sensing oil level.",
+      "0-150 mm",
+      "0-300 mm",
+      "0-450 mm",
+      "These ranges are fluid specific and will vary with the fluid. Other ranges are available on a special order basis.",
+      "How fast is the gauge?",
+      "The gauge is very fast, two to four seconds full scale and then real time. In other words, once the probe is in the fluid, the gauge will give a 90 to 99 percent level reading in two to four seconds. After that it will give a 100% level reading full or real time depending on desired scan rates.",
+      "What needs to be purchased to make the gauge work with a product?",
+      "Three components are required:",
+      "1. A Wilkris fluid level gauge",
+      "2. A sensing probe",
+      "3. A calibration / mastering fixture",
+      "Can the gauge be used with any product?",
+      "The Wilkris level probe is quite small and very flexible. A typical probe is 1/8\" to 1/4\" outside diameter and can be as long as needed, 60 inches or more if necessary. In most applications the Wilkris probe resembles the existing dipstick used with the product. The gauge is then located 10-30 feet away in a panel where it is out of the way of the manufacturing environment. The gauge can be configured to work with almost any computer or industrial programmable logic controller (PLC) or by itself with a display.",
+      "Can the Wilkris gauge be used with existing automated systems?",
+      "Wilkris Company encourages customers to integrate the gauge with existing audit or filling systems. The gauge is designed for this type of application.",
+      "How reliable is this gauge?",
+      "The Wilkris gauge is extremely reliable. There are units running in automotive factories that have been in place for over four years. These units have had minimum maintenance and are still functioning correctly. In addition, Wilkris Company runs durability tests 24 hours a day, seven days a week, 365 days a year. Wilkris Company is constantly testing level sensing gauges for reliability and durability under factory conditions. Wilkris Company tests fluids that are most likely to be encountered in an industrial environment.",
+      "How much does the gauge cost?",
+      "Wilkris Company quotes prices on a written \"Request for Quote\" basis after an engineer has reviewed a potential client's application.",
+      "How can Wilkris Company be contacted?",
+      "There are four easy ways of contacting Wilkris Company:",
+      "1. E-mail a request for quotation: quotation@wilkris.com",
+      "2. Call Wilkris Company: 513.271.9344",
+      "3. FAX a request for quotation: 513.271.5995",
+      "4. Mail a request for quotation:",
+      "Wilkris Company, Inc.",
+      "P.O. Box 230",
+      "Terrace Park, OH 45174"
+    ],
+    "images": [],
+    "links": [
+      {
+        "href": "mailto:quotation@wilkris.com",
+        "text": "quotation@wilkris.com"
+      }
+    ],
+    "movies": [],
+    "modified": [
+      "Page last modified 19 January 2005"
+    ]
+  },
+  "freq/about_other_products.htm": {
+    "lines": [
+      "QUESTIONS ABOUT OTHER WILKRIS PRODUCTS AND SERVICES",
+      "Wilkris provides the following products and services:",
+      "Products",
+      "1. Digistick: A portable fluid level audit gauge.",
+      "2. Wilkris Fluid Level Gauge: for auditing and controlling industrial fluid filling applications.",
+      "3. Wilkris Top Roll gauge: for sugar cane milling processes.",
+      "4. Lasagna Reel: for photo developing processes.",
+      "Services",
+      "1. Consulting engineering services on a contractual basis.",
+      "2. Consulting engineering services for fluid filling and auditing projects.",
+      "3. Other engineering services including gauge reliability and repeatability (R&R) studies.",
+      "4. Maintenance contract services for Wilkris systems."
+    ],
+    "images": [],
+    "links": [],
+    "movies": [],
+    "modified": [
+      "Page last modified 19 January 2005"
+    ]
+  },
+  "freq/about_wilkris.htm": {
+    "lines": [
+      "QUESTIONS ABOUT WILKRIS COMPANY",
+      "Wilkris has been in business since 1972 when it was started as \"Electrical Systems Consulting\" (ESC). The company name was changed and it was incorporated in 1982.",
+      "What does Wilkris Company do?",
+      "Wilkris has two divisions, manufacturing, and engineering. Manufacturing builds and assembles products. Engineering designs and builds prototypes, and provides engineering services to the manufacturing division and outside customers. These services include the following:",
+      "A. Contract engineering services.",
+      "B. Consulting services for level sensing and fluid filling.",
+      "C. Service and support for Wilkris level sensing and filling products."
+    ],
+    "images": [],
+    "links": [],
+    "movies": [],
+    "modified": [
+      "Page last modified 19 January 2005"
+    ]
+  },
+  "freq.htm": {
+    "lines": [
+      "Over the years, people have asked many questions about Wilkris Company and our products. This section of our website is designed to answer the questions that are most frequently asked.",
+      "To make things easier, we have broken down these questions into four main groups. Please choose from one of the categories listed below:",
+      "Questions About Wilkris Company",
+      "Questions About Wilkris Fluid Level Sensing Gauges",
+      "Questions About Fluid Filling Systems",
+      "Questions About Other Wilkris Products and Services"
+    ],
+    "images": [],
+    "links": [
+      {
+        "href": "/freq/about_wilkris.htm",
+        "text": "Questions About Wilkris Company"
+      },
+      {
+        "href": "/freq/about_level_sensing.htm",
+        "text": "Questions About Wilkris Fluid Level Sensing Gauges"
+      },
+      {
+        "href": "/freq/about_fluid_filling.htm",
+        "text": "Questions About Fluid Filling Systems"
+      },
+      {
+        "href": "/freq/about_other_products.htm",
+        "text": "Questions About Other Wilkris Products and Services"
+      }
+    ],
+    "movies": [],
+    "modified": [
+      "Page last modified 19 January 2005"
+    ]
+  },
+  "fueltank_demo.htm": {
+    "lines": [
+      "Fuel Tank Demonstration"
+    ],
+    "images": [],
+    "links": [],
+    "movies": [
+      "/Flash/Fuel%20Tank%20Demo.swf"
+    ],
+    "modified": []
+  },
+  "main.htm": {
+    "lines": [
+      "Welcome to the WILKRIS COMPANY, INC.",
+      "Producers of the Digistick Fluid Leveling Gauge",
+      "Digistick, the standard in digital fluid level measurement.",
+      "The Digistick is the standard from which fluid level measurement is defined. There is no other way to represent fluid level more precisely than the Digistick (±1 mm). All other fluid level representations can be derived from the Digistick.",
+      "After years of research and development and extensive testing Wilkris has solved the problem of measuring fluid level accurately. Splash, turbulence, and foam have no effect on the Digistick, because it is a hydrostatic gauge. The Digistick is calibrated and traceable to national standards. We are the standard in precision fluid level measurement.",
+      "Summary of Wilkris Company",
+      "A builder of special machinery for over twenty-five years, and experienced in manufacturing special gauges and instruments, Wilkris Company excels in solving engineering problems in diverse industries. Wilkris analyzes products, equipment specifications, and performance requirements to determine designs that can either modify existing facilities or design new equipment to solve engineering problems. Wilkris Company can provide system layouts that increase efficiency, greatly reduce percentages of rejected parts and improve overall productivity.",
+      "Mission Statement",
+      "Wilkris Company's mission is to build trust and conveniently supply reliable technology such that we may continue to collaboratively create progressive results in order to solve customer problems.",
+      "Contact Information",
+      "Please take a moment to look over our site to see how Wilkris Company can help you. If you have any further questions, please don't hesitate to contact us at: info@wilkris.com.",
+      "Telephone",
+      "513.271.9344",
+      "Fax",
+      "513.271.5995",
+      "Postal Address",
+      "P.O. Box 230",
+      "Terrace Park, OH 45174",
+      "Electronic Mail",
+      "General Information: info@wilkris.com",
+      "Sales: sales@wilkris.com",
+      "Customer Support: support@wilkris.com",
+      "Transmission Demonstration",
+      "Engine Demonstration",
+      "Fuel Tank Demonstration"
+    ],
+    "images": [],
+    "links": [
+      {
+        "href": "mailto:info@wilkris.com",
+        "text": "info@wilkris.com"
+      },
+      {
+        "href": "mailto:info@wilkris.com",
+        "text": "info@wilkris.com"
+      },
+      {
+        "href": "mailto:sales@wilkris.com",
+        "text": "sales@wilkris.com"
+      },
+      {
+        "href": "mailto:support@wilkris.com",
+        "text": "support@wilkris.com"
+      }
+    ],
+    "movies": [
+      "/Flash/Untitled2.swf",
+      "/Flash/Wilkris%20Engine%20Demo.swf",
+      "/Flash/Fuel%20Tank%20Demo.swf"
+    ],
+    "modified": []
+  },
+  "product/analog_output_gauge.htm": {
+    "lines": [
+      "Analog Output Hydrostatic Fluid Level Gauge",
+      "Key Benefits",
+      "Solves hardy perennial fluid control problems",
+      "Improves quality control and productivity",
+      "Reduces rejections and rework",
+      "Specifications",
+      "Gauge Type: Hydrostatic, Self-contained",
+      "Output: 4-20 mA into a 250 ohm load",
+      "Power: 24 VDC 1.2 A Clean",
+      "Range in Fluid: 0-100 mm (4\")",
+      "Response Time: 2-4 Seconds Settling, Then Real Time",
+      "Weight: 3.4 Kilos (7.5 lbs.)",
+      "NEMA 1 Enclosure: 305mm X 210mm X 108mm",
+      "Size: (12\" X 8.25\" X 4.25\")",
+      "Interface Plug: Amphenol 973100A24-59 (16 pin)",
+      "Operation: Continuous",
+      "Probe Tube: Specify at Time of Order",
+      "Connecting Tubing: 6.4mm O.D. X 3.2mm I.D. up to 30 Meters Long,",
+      "1/4\" O.D. X 1/8\" I.D. up to 100 Feet Long",
+      "Items Included With Gauge",
+      "Operator's Manual",
+      "Fault Monitoring: 24 VDC 20mA Output",
+      "Contamination Detection: 24 VDC 20mA Output",
+      "Warranty: 1 Year (see Form 3 Rev. 6/12/99)",
+      "Options",
+      "Probe Tube Design Services",
+      "Application Engineering Services",
+      "Integration with Fill Operations",
+      "Level & Temperature Sensing Probes Calibration Fixtures",
+      "Maintenance Contracts",
+      "Gauge R & R Studies",
+      "NEMA 12 Enclosure",
+      "Applications",
+      "Fluid Fill All Types",
+      "Engine Oil Level",
+      "Transmission Oil Level While Running",
+      "Differential Oil Level Hydraulic Fluid Levels",
+      "Hydraulic Fluid Level",
+      "Wiper Fluid Level",
+      "Coolant Level",
+      "Brake Fluid Level",
+      "Wilkris Company quotes prices on a written \"Request for Quote\" basis after an engineer has reviewed a potential client's application.",
+      "There are four easy ways of contacting Wilkris Company:",
+      "1. E-mail a request for quotation: quotation@wilkris.com",
+      "2. Call Wilkris Company: 513.271.9344",
+      "3. Fax a request for quotation: 513.271.5995",
+      "4. Mail a request for quotation:",
+      "Wilkris Company, Inc.",
+      "P.O. Box 230",
+      "Terrace Park, OH 45174"
+    ],
+    "images": [
+      {
+        "src": "/images/Products/aoflg.jpg",
+        "width": "250",
+        "height": "350"
+      }
+    ],
+    "links": [
+      {
+        "href": "mailto:quotation@wilkris.com",
+        "text": "quotation@wilkris.com"
+      }
+    ],
+    "movies": [],
+    "modified": [
+      "Page last modified 19 January 2005"
+    ]
+  },
+  "product/calibration_fixture.htm": {
+    "lines": [
+      "Calibration Fixture for Fluid Level and Temperature",
+      "Key Benefits",
+      "Solves hardy perennial fluid control problems",
+      "Improves quality control and productivity",
+      "Reduces rejections and rework",
+      "Temperature Fixture Specifications",
+      "Gauge Type: Liquid Calibration Bath",
+      "Temp. Display: Digital LED Metric 4 Digit and Sign",
+      "Temp. Control: Digital LED Metric 4 Digit and Sign",
+      "Operating Temp. Range: -40 to 120 Deg. C",
+      "Working Temp. Range: Ambient +5 Deg. C to 120 Deg. C",
+      "Temp. Stability: +/- 0.01 Deg. C",
+      "Set Point Accuracy: +/- 1.0 Deg. C",
+      "Sensing Range in Fluid: 0-130mm (5.1\")",
+      "Power Requirements: 120 VAC 1 Phase 10 amps. 60 Hz.",
+      "Heater & Density: 1000 Watt, 7.6 W/cm2",
+      "Pump Flow & Pressure: 10 L/min @ 145 mbar",
+      "Level Fixture Specifications",
+      "Gauge Type: Digital Self-contained Electronic",
+      "Range in Fluid: 0-30mm (5.1\")",
+      "Resolution: +/- 0.01mm (0.0005\")",
+      "Power: Self-contained Battery 2000 Hours",
+      "Display: LCD 3/8\" 6 Digit and Sign Inch/Metric",
+      "Total Weight: 14 Kilos (31 lbs.)",
+      "Size: 508mm W X 305mm D X 508mm H (20\" W X 12\" D X 20\" H)",
+      "Items Included with Gauge",
+      "Operator's Manuals",
+      "Warranty",
+      "One Short Probe Holder",
+      "Applications",
+      "Calibration of Wilkris Fluid Level Gauges",
+      "Calibration of Wilkris Fluid Fill Heads",
+      "Calibration of Level/Temp. Audit Probes",
+      "Options",
+      "Custom Go No-Go Calibration Fixtures",
+      "Gage R & R Studies",
+      "Certification of Calibration",
+      "Consulting Services",
+      "Deeper Immersion Working Depths",
+      "Flow Coolers",
+      "Refrigerated Bath",
+      "Maintenance Contracts",
+      "Custom Probe Holders",
+      "Wilkris Company quotes prices on a written \"Request for Quote\" basis after an engineer has reviewed a potential client's application.",
+      "There are four easy ways of contacting Wilkris Company:",
+      "1. E-mail a request for quotation: quotation@wilkris.com",
+      "2. Call Wilkris Company: 513.271.9344",
+      "3. Fax a request for quotation: 513.271.5995",
+      "4. Mail a request for quotation:",
+      "Wilkris Company, Inc.",
+      "P.O. Box 230",
+      "Terrace Park, OH 45174"
+    ],
+    "images": [
+      {
+        "src": "/images/Products/cfflt.jpg",
+        "width": "249",
+        "height": "350"
+      }
+    ],
+    "links": [
+      {
+        "href": "mailto:quotation@wilkris.com",
+        "text": "quotation@wilkris.com"
+      }
+    ],
+    "movies": [],
+    "modified": [
+      "Page last modified 19 January 2005"
+    ]
+  },
+  "product/digistick.htm": {
+    "lines": [
+      "DIGISTICK",
+      "Capabilities:",
+      "1. Portable",
+      "2.Visual display of fluid levels",
+      "3. Scans product barcodes",
+      "4. Programmable limits",
+      "5. Multiple model look up tables",
+      "6. Multiple fluid look up tables",
+      "7. Multiple record storage",
+      "8. Exports data to spreadsheets",
+      "9. Creates fluid level expansion curves for automatic transmissions",
+      "Click the following link to see an online Flash demonstration of the Digistick®:",
+      "Flash Demonstration",
+      "What is the Digistick®?",
+      "The Digistick® is a digital dipstick. Just like the one in a car’s engine or transmission, except that it is much more sophisticated. The following are a few of the unique qualities of the Digistick®:",
+      "1. Operates on an internal 12 Volt battery or an external power source.",
+      "2. It uses Wilkris Company's patented hydrostatic technology.",
+      "3. It is immune to foam, splash, and turbulence.",
+      "4. It can be used while machinery is running or during a filling operation.",
+      "5. It is quite accurate, typically +/- 1 mm, application dependent.",
+      "6. The Digistick® comes in two ranges: 0-100 mm & 0-300mm.",
+      "7. Fluid temperature can be measured simultaneously.",
+      "8. Fluid can be compensated for thermal expansion.",
+      "9. Product fluid levels can be normalized for their thermal expansion curves.",
+      "10. Stored data can be exported.",
+      "The Digistick® can measure just about any fluid level and/or temperature and display the results. It will then store the results of a measurement in a database along with a time and date stamp and record other data such as a serial number, lot number, or VIN number. The Digistick® is a Windows based system and therefore can interface with current technology easily through one of it’s two communications ports.",
+      "Creating Custom Fluid Level Expansion Curves",
+      "The Digistick® can be used to create fluid level expansion curves for automatic transmissions. The Digistick® can measure level and temperature either while driving a vehicle on the road or in a test stand environment. The Digistick® can be configured to take multiple recordings of temperature, level, and time. That information can then be exported and charted in a spreadsheet program which makes the creation and verification of a transmission fluid level expansion curve very easy.",
+      "Digistick's® Uses",
+      "The Digistick® is not limited to the Automotive Industry. The product can be used to measure any type of fluid. If a customer needs to audit the level of wine in aging casks or check the level of salad dressing in 55-gallon drums, the Digistick® can perform the job.",
+      "Digistick ® fluid level technology has been applied to the following processes:",
+      "1. Barrel Filling",
+      "2. Axle Filling",
+      "3. Axle Auditing",
+      "4. Transmission Filling",
+      "5. Transmission Auditing",
+      "6 Bottle Filling",
+      "Custom Probe Design",
+      "Wilkris Company knows from years of experience that there are no two similar applications of the Digistick®. Wilkris has a team of engineers dedicated to designing the perfect probe for specific applications. The Wilkris probe is flexible enough to snake through just about any hole, or can be preformed to get in the exact location needed. Wilkris Company has experience in making probes for difficult applications including engines; transmissions; axles; and fuel tanks.",
+      "If temperature is an important aspect of an application, Wilkris Company also produces temperature-sensing probes so a current temperature reading can be taken with every level reading.",
+      "Purge systems are also available to keep gauges contaminate free.",
+      "Screen Shots From the Digistick®",
+      "Click To Enlarge",
+      "Main View",
+      "Record List",
+      "Models View",
+      "Custom Set Point Entry",
+      "Wilkris Company quotes prices on a written \"Request for Quote\" basis after an engineer has reviewed a potential client's application.",
+      "There are four easy ways of contacting Wilkris Company:",
+      "1. E-mail a request for quotation: quotation@wilkris.com",
+      "2. Call Wilkris Company: 513.271.9344",
+      "3. Fax a request for quotation: 513.271.5995",
+      "4. Mail a request for quotation:",
+      "Wilkris Company, Inc.",
+      "P.O. Box 230",
+      "Terrace Park, OH 45174"
+    ],
+    "images": [
+      {
+        "src": "/images/Products/digistick/digistick_small.jpg",
+        "width": "342",
+        "height": "223"
+      },
+      {
+        "src": "/images/Products/digistick/MainScreen_small.gif",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "src": "/images/Products/digistick/recordlist_small.gif",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "src": "/images/Products/digistick/Models_small.gif",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "src": "/images/Products/digistick/TempTable_small.gif",
+        "width": "100",
+        "height": "75"
+      }
+    ],
+    "links": [
+      {
+        "href": "/product/digistick_flash_demo.htm",
+        "text": "Flash Demonstration"
+      },
+      {
+        "href": "mailto:quotation@wilkris.com",
+        "text": "quotation@wilkris.com"
+      }
+    ],
+    "movies": [],
+    "modified": [
+      "Page last modified 19 January 2005"
+    ]
+  },
+  "product/digistick_flash_demo.htm": {
+    "lines": [
+      "Digistick® Demonstration",
+      "This demonstration requires Macromedia Flash Player.",
+      "Please visit Macromedia's website to download the free version of Flash Player if the demonstration does not load."
+    ],
+    "images": [],
+    "links": [
+      {
+        "href": "/product/digistick.htm",
+        "text": "Digistick ®"
+      }
+    ],
+    "movies": [
+      "/Flash/digistick2frame3.swf"
+    ],
+    "modified": [
+      "Page last modified 19 January 2005"
+    ]
+  },
+  "product/fluid_fill_system.htm": {
+    "lines": [
+      "Fluid Fill and Top Off System",
+      "Fluid Fill sytem",
+      "Level Sensing Fluid Fill Head",
+      "Key Benefits:",
+      "1. Solves hardy perennial fluid control problems",
+      "2. Improves quality control and productivity",
+      "3. Reduces rejections and rework",
+      "State of the Art Features:",
+      "1. Fast response time",
+      "2. Turbulence, splash, and foam immune",
+      "3. Does not use conventional vacuum differential pressure for level sensing",
+      "4. Product identification and verification through bar-coding",
+      "5. Positive stop recognition",
+      "6. GM Power Train approved",
+      "7. Closed loop level sensing",
+      "Options",
+      "1 Gauges and corrects overfills",
+      "2. Fluid temperature sensing with closed loop control",
+      "3. Pre-heated fluid capable",
+      "4. Calibration fixtures",
+      "5. Dip tube design services",
+      "6. Service contracts",
+      "Wilkris Company quotes prices on a written \"Request for Quote\" basis after an engineer has reviewed a potential client's application.",
+      "There are four easy ways of contacting Wilkris Company:",
+      "1. E-mail a request for quotation: quotation@wilkris.com",
+      "2. Call Wilkris Company: 513.271.9344",
+      "3. Fax a request for quotation: 513.271.5995",
+      "4. Mail a request for quotation:",
+      "Wilkris Company, Inc.",
+      "P.O. Box 230",
+      "Terrace Park, OH 45174"
+    ],
+    "images": [
+      {
+        "src": "/images/Products/PFFTS.jpg",
+        "width": "219",
+        "height": "350"
+      },
+      {
+        "src": "/images/Products/PFFTS_2.jpg",
+        "width": "350",
+        "height": "275"
+      }
+    ],
+    "links": [
+      {
+        "href": "mailto:quotation@wilkris.com",
+        "text": "quotation@wilkris.com"
+      }
+    ],
+    "movies": [],
+    "modified": [
+      "Page last modified 19 January 2005"
+    ]
+  },
+  "product/mastering_fixture.htm": {
+    "lines": [
+      "Mastering Fixture",
+      "Fluid Level and Temperature",
+      "Temperature Fixture Specifications",
+      "Gauge type: Liquid calibration bath.",
+      "Metric temperature display: Digital LCD 4 digit and sign.",
+      "Power requirements: Single alkaline AA (2 years).",
+      "Operating temperature range: -40 to 120 deg. F.",
+      "Working temperature range: -40 to 120 deg. F.",
+      "Accuracy: +/- 1.00 Deg. F.",
+      "Level Fixture Specifications",
+      "Sight gauge: Graduated cylinder.",
+      "Range in fluid: 0-130 mm (5.1”).",
+      "Graduations: 2 mm (0.079”).",
+      "Total Weight: Two Kilos (4 Lbs.).",
+      "Size: 102mm diameter by 432mm height ( 4”Dia. X 17”H).",
+      "Items Included with Gauge",
+      "Operators manuals",
+      "Warranty",
+      "Battery with temperature display",
+      "Applications",
+      "Calibration of Wilkris fluid level gauges.",
+      "Calibration of Wilkris fluid fill heads.",
+      "Calibration of level/temperature audit probes.",
+      "Options",
+      "Custom Go/No-Go calibration fixtures for deeper immersion working depths",
+      "Gauge R & R studies",
+      "Custom probe holders",
+      "Certification of calibration maintenance contracts",
+      "Consulting services",
+      "Please Note",
+      "This unit is designed for everyday use as a mastering fixture to verify level and temperature calibration. It is not designed to set calibration. For in plant gauge re-calibration please specify a Wilkris Calibration Fixture Model 30416.",
+      "Wilkris Company quotes prices on a written \"Request for Quote\" basis after an engineer has reviewed a potential client's application.",
+      "There are four easy ways of contacting Wilkris Company:",
+      "1. E-mail a request for quotation: quotation@wilkris.com",
+      "2. Call Wilkris Company: 513.271.9344",
+      "3. Fax a request for quotation: 513.271.5995",
+      "4. Mail a request for quotation:",
+      "Wilkris Company, Inc.",
+      "P.O. Box 230",
+      "Terrace Park, OH 45174"
+    ],
+    "images": [
+      {
+        "src": "/images/Products/30485MF.jpg",
+        "width": "300",
+        "height": "581"
+      }
+    ],
+    "links": [],
+    "movies": [],
+    "modified": [
+      "Page last modified 31 January 2005"
+    ]
+  },
+  "product/temperature_sensing_probe.htm": {
+    "lines": [
+      "Tempertaure Sensing Fluid Level Probe",
+      "Model 30428W",
+      "Patent Pending",
+      "Key Benefits:",
+      "1. Solves hardy perennial fluid control problems",
+      "2. Imporoves quality control and productivity",
+      "3. Reduces rejections and rework",
+      "Wilkris Company quotes prices on a written \"Request for Quote\" basis after an engineer has reviewed a potential client's application.",
+      "There are four easy ways of contacting Wilkris Company:",
+      "1. E-mail a request for quotation: quotation@wilkris.com",
+      "2. Call Wilkris Company: 513.271.9344",
+      "3. Fax a request for quotation: 513.271.5995",
+      "4. Mail a request for quotation:",
+      "Wilkris Company, Inc.",
+      "P.O. Box 230",
+      "Terrace Park, OH 45174"
+    ],
+    "images": [
+      {
+        "src": "/images/Products/tsflp.jpg",
+        "width": "495",
+        "height": "414"
+      }
+    ],
+    "links": [
+      {
+        "href": "mailto:quotation@wilkris.com",
+        "text": "quotation@wilkris.com"
+      }
+    ],
+    "movies": [],
+    "modified": [
+      "Page last modified 19 January 2005"
+    ]
+  },
+  "product/tote_lock.htm": {
+    "lines": [
+      "Tote Lock",
+      "Key Benefits",
+      "Solves tote exchange messes",
+      "Improves quality control and productivity",
+      "Reduces wasted luids",
+      "Wilkris Company quotes prices on a written \"Request for Quote\" basis after an engineer has reviewed a potential client's application.",
+      "There are four easy ways of contacting Wilkris Company:",
+      "1. E-mail a request for quotation: quotation@wilkris.com",
+      "2. Call Wilkris Company: 513.271.9344",
+      "3. Fax a request for quotation: 513.271.5995",
+      "4. Mail a request for quotation:",
+      "Wilkris Company, Inc.",
+      "P.O. Box 230",
+      "Terrace Park, OH 45174"
+    ],
+    "images": [
+      {
+        "src": "/images/Products/totelock11.gif",
+        "width": "300",
+        "height": "150"
+      },
+      {
+        "src": "/images/Products/totelock22.gif",
+        "width": "300",
+        "height": "150"
+      },
+      {
+        "src": "/images/Products/totelock33.gif",
+        "width": "300",
+        "height": "150"
+      }
+    ],
+    "links": [
+      {
+        "href": "mailto:quotation@wilkris.com",
+        "text": "quotation@wilkris.com"
+      }
+    ],
+    "movies": [],
+    "modified": [
+      "Page last modified 19 January 2005"
+    ]
+  },
+  "product.htm": {
+    "lines": [
+      "PRODUCTS",
+      "Listed Below is Wilkris Company's line of products. Please click on a link for more information about a specific product.",
+      "Please choose one of the following links for Flash Demonstrations of Wilkris Products:",
+      "Digistick Flash Demonstration",
+      "Transmission Demonstration",
+      "Engine Demonstration",
+      "Fuel Tank Demonstration",
+      "Digistick",
+      "A Portable Hydrostatic Level gauge that records level, temperature, time, date, serial, and model of every reading and stores readings in a database for further statistical analysis.",
+      "Precision Hydrostatic Fluid Fill Top-Off System",
+      "A Precision Hydrostatic Level Sensing Device that also fills to a specified level.",
+      "Analog Output Hydrostatic Fluid Level Gauge",
+      "A Precision Hydrostatic Level Gauge which provides a variable voltage output.",
+      "Calibration Fixture for Fluid Level & Temperature",
+      "A Fixture designed specifically for Wilkris Company fluid level gauge calibration.",
+      "Temperature Sensing Fluid Level Probe",
+      "A customizable probe for all applications.",
+      "Tote Lock",
+      "A fixture designed for clean exchanges between industrial liquid totes.",
+      "Mastering Fixture",
+      "This unit is designed for everyday use as a mastering fixture to verify level and temperature calibration."
+    ],
+    "images": [
+      {
+        "src": "/images/Products/digistick/Digistick_Case_copy_small.jpg",
+        "width": "100",
+        "height": "75"
+      },
+      {
+        "src": "/images/Products/PFFTS_small.jpg",
+        "width": "100",
+        "height": "159"
+      },
+      {
+        "src": "/images/Products/aoflg_small.jpg",
+        "width": "100",
+        "height": "140"
+      },
+      {
+        "src": "/images/Products/cfflt_small.jpg",
+        "width": "100",
+        "height": "140"
+      },
+      {
+        "src": "/images/Products/tsflp_small.jpg",
+        "width": "100",
+        "height": "83"
+      },
+      {
+        "src": "/images/totelock11_small.gif",
+        "width": "100",
+        "height": "50"
+      },
+      {
+        "src": "/images/Products/30485MFsmall.jpg",
+        "width": "150",
+        "height": "291"
+      }
+    ],
+    "links": [
+      {
+        "href": "/product/digistick_flash_demo.htm",
+        "text": "Digistick Flash Demonstration"
+      },
+      {
+        "href": "/transmission_demo.htm",
+        "text": "Transmission Demonstration"
+      },
+      {
+        "href": "/engine_demo.htm",
+        "text": "Engine Demonstration"
+      },
+      {
+        "href": "/fueltank_demo.htm",
+        "text": "Fuel Tank Demonstration"
+      },
+      {
+        "href": "/product/digistick.htm",
+        "text": "Digistick"
+      },
+      {
+        "href": "/product/fluid_fill_system.htm",
+        "text": "Precision Hydrostatic Fluid Fill Top-Off System"
+      },
+      {
+        "href": "/product/analog_output_gauge.htm",
+        "text": "Analog Output Hydrostatic Fluid Level Gauge"
+      },
+      {
+        "href": "/product/calibration_fixture.htm",
+        "text": "Calibration Fixture for Fluid Level & Temperature"
+      },
+      {
+        "href": "/product/temperature_sensing_probe.htm",
+        "text": "Temperature Sensing Fluid Level Probe"
+      },
+      {
+        "href": "/product/tote_lock.htm",
+        "text": "Tote Lock"
+      },
+      {
+        "href": "/product/mastering_fixture.htm",
+        "text": "Mastering Fixture"
+      }
+    ],
+    "movies": [],
+    "modified": []
+  },
+  "transmission_demo.htm": {
+    "lines": [
+      "Transmission Demonstration"
+    ],
+    "images": [],
+    "links": [],
+    "movies": [
+      "/Flash/Untitled2.swf"
+    ],
+    "modified": [
+      "Page last modified 19 January 2005"
+    ]
+  }
+}
