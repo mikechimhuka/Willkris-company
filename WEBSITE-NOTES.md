@@ -8,4 +8,8 @@ Previously referenced website: https://wilkris-precision.chimhukab.chatgpt.site/
 
 Saved on September 10, 2026.
 
-The user wants to update the existing Wilkris Company website, which presents the Digistick fluid level gauge. Its navigation includes Home, Products, Frequently Asked Questions, Fluid Filling, and Contact Wilkris. The share link was opened and its destination verified. Specific updates have not yet been provided. No website changes have been made. This workspace currently contains no website source files; these references are saved for resuming work.
+The user requested a design-only modernization while preserving original content. The completed static redesign is saved in `dist/`, with original source pages in `source-original/` and a reproducible HTML generator in `scripts/build.py`. See `README.md` for details and review limitations.
+
+The redesign includes all 24 original linked pages, original product images and software screenshots, and four original Flash demonstrations restored through Ruffle. Desktop/mobile and keyboard checks were performed. `VALIDATION.json` records the content and link checks.
+
+The original live Wilkris website must not be replaced without the user's approval. A separate private Sites review project was created for this design; its identifier is saved in `.openai/hosting.json`.
