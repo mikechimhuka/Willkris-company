@@ -61,7 +61,7 @@ def shell(title, body, path, section=None):
     return f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{E(title)} | Wilkris Company</title><meta name="description" content="Wilkris Company, producer of extremely accurate and dependable level sensing and fluid filling technology">
-<meta name="theme-color" content="#112a38"><link rel="stylesheet" href="/assets/site.css"><script defer src="/assets/site.js"></script></head>
+<meta name="theme-color" content="#112a38"><link rel="stylesheet" href="/assets/site.css?v=20260911-nav"><script defer src="/assets/site.js"></script></head>
 <body><a class="skip" href="#main">Skip to content</a>
 <header class="site-header"><div class="wrap header-inner"><a class="wordmark" href="/main.htm" aria-label="Wilkris Company home"><img src="/assets/wilkris-logo.png" alt="Wilkris Company"></a><button class="menu-button" aria-expanded="false" aria-controls="primary-nav">Menu <span aria-hidden="true">☰</span></button><nav id="primary-nav" aria-label="Main navigation">{nav(active)}</nav></div></header>
 <main id="main">{body}</main>
