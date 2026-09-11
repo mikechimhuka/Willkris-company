@@ -63,9 +63,9 @@ def shell(title, body, path, section=None):
 <title>{E(title)} | Wilkris Company</title><meta name="description" content="Wilkris Company, producer of extremely accurate and dependable level sensing and fluid filling technology">
 <meta name="theme-color" content="#112a38"><link rel="stylesheet" href="/assets/site.css"><script defer src="/assets/site.js"></script></head>
 <body><a class="skip" href="#main">Skip to content</a>
-<header class="site-header"><div class="wrap header-inner"><a class="wordmark" href="/main.htm" aria-label="Wilkris Company home"><strong>WILKRIS<span aria-hidden="true">.</span></strong><span>COMPANY, INC.</span></a><button class="menu-button" aria-expanded="false" aria-controls="primary-nav">Menu <span aria-hidden="true">☰</span></button><nav id="primary-nav" aria-label="Main navigation">{nav(active)}</nav></div></header>
+<header class="site-header"><div class="wrap header-inner"><a class="wordmark" href="/main.htm" aria-label="Wilkris Company home"><img src="/assets/wilkris-logo.png" alt="Wilkris Company"></a><button class="menu-button" aria-expanded="false" aria-controls="primary-nav">Menu <span aria-hidden="true">☰</span></button><nav id="primary-nav" aria-label="Main navigation">{nav(active)}</nav></div></header>
 <main id="main">{body}</main>
-<footer class="site-footer"><div class="wrap footer-grid"><div><a class="wordmark" href="/main.htm"><strong>WILKRIS<span>.</span></strong><span>COMPANY, INC.</span></a><p>Producers of the Digistick<br>Fluid Leveling Gauge</p></div><nav aria-label="Footer navigation">{nav(active,True)}</nav><div><span class="eyebrow">Contact Information</span><p><a href="tel:+15132719344">513.271.9344</a><br><a href="mailto:info@wilkris.com">info@wilkris.com</a></p><p>P.O. Box 230<br>Terrace Park, OH 45174</p></div></div><div class="wrap footer-bottom"><span>© Wilkris Company, Inc.</span><a href="#main">Back to top ↑</a></div></footer></body></html>'''
+<footer class="site-footer"><div class="wrap footer-grid"><div><a class="wordmark" href="/main.htm"><img src="/assets/wilkris-logo.png" alt="Wilkris Company"></a><p>Producers of the Digistick<br>Fluid Leveling Gauge</p></div><nav aria-label="Footer navigation">{nav(active,True)}</nav><div><span class="eyebrow">Contact Information</span><p><a href="tel:+15132719344">513.271.9344</a><br><a href="mailto:info@wilkris.com">info@wilkris.com</a></p><p>P.O. Box 230<br>Terrace Park, OH 45174</p></div></div><div class="wrap footer-bottom"><span>© Wilkris Company, Inc.</span><span>Page last modified September 10, 2026</span><a href="#main">Back to top ↑</a></div></footer></body></html>'''
 
 def page_head(title, kicker, intro='', parent=None):
     crumb='<a href="/main.htm">Home</a>'+(f'<span>/</span><a href="/{parent[0]}">{E(parent[1])}</a>' if parent else '')
@@ -173,7 +173,7 @@ for path,p in PAGES.items():
     if path.startswith('fluid_filling/'):
         links=''.join(f'<a href="{l["href"]}"'+(' aria-current="page"' if l['href']=='/'+path else '')+f'>{E(l["text"])}</a>' for l in PAGES['fluid_filling.htm']['links'])
         gallery=f'<aside class="side-nav"><span class="eyebrow">Fluid Filling</span>{links}</aside>'
-    original_note=''.join(f'<span>{E(x)}</span>' for x in p['modified'])
+    original_note='<span>Page last modified September 10, 2026</span>'
     body=page_head(title,kicker,parent=parent)+f'<section class="section"><div class="wrap reading-layout">{gallery}<article class="article">{content}<div class="original-date"><span>Original content</span>{original_note}</div></article></div></section>'
     write(path,title,body)
 
